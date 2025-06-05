@@ -1,0 +1,20 @@
+<package>
+<id>org.coolstar.sileo/id>
+<name>Sileo</name>
+<version>2.5</version>
+<compatibility>
+<firmware>
+<maxiOS>7.0</maxiOS>
+<otherVersions>unconfirmed</otherVersions>
+</firmware>
+</compatibility>
+<dependencies/>
+<descriptionlist>
+<description>A modern APT package manager.</description>
+</descriptionlist>
+<screenshots/>
+<changelog>
+<change>Initial release</change>
+</changelog>
+<links/>
+</package>
